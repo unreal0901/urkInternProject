@@ -30,7 +30,7 @@ const MenuBar = () => {
         <div className="ic1 h-min px-2  rounded-md  hover:bg-[#3F2DDF] hover:text-white ">
           <div className="max-w-min relative ">
             <span className="absolute w-[6px] h-[6px] rounded-lg bg-blue-500 right-0 top-[0px]"></span>
-            <i className="bx bx-bell text-gray-500 text-lg font-normal"></i>
+            <i className="bx bx-bell text-gray-500 text-lg font-normal hover:text-white"></i>
           </div>
         </div>
         <div className="ic1 h-min px-2  rounded-md  hover:bg-[#3F2DDF] hover:text-white ">
